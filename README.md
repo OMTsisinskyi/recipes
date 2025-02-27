@@ -1,3 +1,6 @@
+# View website
+__Deployed on vercel__ __[Сlick to view](https://recipes-ashen-iota.vercel.app/)__
+
 
 ## 1. Clone the Repository
 
